@@ -1,0 +1,1 @@
+ipconfig > C:\Windows\Temp\resultado02.txt
