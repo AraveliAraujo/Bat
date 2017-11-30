@@ -12,10 +12,6 @@ import java.io.FileReader;
 import java.io.IOException;
 import model.NewClass;
 
-/**
- *
- * @author 24
- */
 public class nn {
 
     public void exec2() {
