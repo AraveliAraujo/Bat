@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package controler;
 
 import java.awt.Desktop;
@@ -26,6 +22,7 @@ public class nn {
             String bfRead;
             while ((bfRead = bf.readLine()) != null) {
                 //hacer el ciclo While mientras el bfRead Tiene datos!
+                //Comentario de prueba de sincronización.
                 temp = temp + bfRead; //aquí estamos guardando el texto del archivo
             }
             texto = temp;
